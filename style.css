@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+ button{
+  align-items: center;
+ }
+
+ .heroImage{
+  align-items: center;
+ }
+
+body{
+  background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  /* background-image: url(https://cdn.wallpapersafari.com/67/27/Q5VR1q.jpg); */
+  /* image */
+  background-size:contain;
+}
+
+ @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Antonio:wght@500&family=Combo&family=Comfortaa:wght@300&family=Dosis:wght@200;500&family=Island+Moments&family=Kolker+Brush&family=La+Belle+Aurore&family=MonteCarlo&family=Montserrat:ital,wght@1,600&family=Playfair+Display:ital,wght@1,500&family=Quicksand:wght@600&family=Qwitcher+Grypen:wght@400;700&display=swap'); 
+
+h1{
+  font-family: 'La Belle Aurore', cursive;
+}
+
+/* 
+ .row{
+  background-color : rgba(255, 255, 255, 0.14);
+  top: 50%;
+ 
+  left: 50%;
+  padding: 80px 50px;
+  
+  border-radius: 10px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+} */
